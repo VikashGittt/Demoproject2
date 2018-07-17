@@ -1,1 +1,2 @@
 Hello this is 1st sentence in file1.txt
+Hello this is 2nd sentence in file1.txt
